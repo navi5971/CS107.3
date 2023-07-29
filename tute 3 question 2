@@ -1,0 +1,34 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace tute_2_q2.cs
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            double num1, num2;
+            double sum, sub, mult, div;
+
+            Console.Write("Enter first number: ");
+            num1 = double.Parse(Console.ReadLine());
+            Console.Write("Enter second number: ");
+            num2 = double.Parse(Console.ReadLine());
+
+            sum = num1 + num2;
+            sub = num1 - num2;
+            mult = num1 * num2;
+            div = num1 / num2;
+
+            Console.WriteLine("The sum of the numbers is: {0}", sum);
+            Console.WriteLine("The difference of the numbers is: {0}", sub);
+            Console.WriteLine("The product of the numbers is: {0}", mult);
+            Console.WriteLine("The quotient of the numbers is: {0}", div);
+
+            Console.ReadKey();
+        }
+    }
+}
