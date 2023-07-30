@@ -1,0 +1,8 @@
+C:\Users\dasantha\Desktop\c # code\tute 1 q3.cs\obj\Debug\tute 1 q3.cs.csproj.AssemblyReference.cache
+C:\Users\dasantha\Desktop\c # code\tute 1 q3.cs\obj\Debug\tute 1 q3.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\dasantha\Desktop\c # code\tute 1 q3.cs\obj\Debug\tute 1 q3.cs.csproj.CoreCompileInputs.cache
+C:\Users\dasantha\Desktop\c # code\tute 1 q3.cs\bin\Debug\tute 1 q3.cs.exe.config
+C:\Users\dasantha\Desktop\c # code\tute 1 q3.cs\bin\Debug\tute 1 q3.cs.exe
+C:\Users\dasantha\Desktop\c # code\tute 1 q3.cs\bin\Debug\tute 1 q3.cs.pdb
+C:\Users\dasantha\Desktop\c # code\tute 1 q3.cs\obj\Debug\tute 1 q3.cs.exe
+C:\Users\dasantha\Desktop\c # code\tute 1 q3.cs\obj\Debug\tute 1 q3.cs.pdb
